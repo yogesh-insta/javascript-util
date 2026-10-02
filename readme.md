@@ -1,5 +1,10 @@
 # Javascript + NodeJs + Docker + Integration with Redis through Docker-compose
 
+**Stack:** Node.js, Docker, Docker Compose, Redis
+
+**Skills:** Containerization, caching
+
+
 ### Create An Image 
 `docker build -t yogeshnm/javascript-util .`  
 
